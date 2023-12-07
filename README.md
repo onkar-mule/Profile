@@ -15,8 +15,6 @@ Experienced spring boot development professional with expertise in Java, Spring 
 ### Accenture
 
 **Application Development Senior Analyst**
-* October 2021 - Present (Pune, India)*
-
 - Planning, designing, developing, and maintaining Spring Boot applications.
 - Software analysis and error troubleshooting.
 - Automation of work processes and compliance with deadlines.
@@ -27,8 +25,6 @@ Experienced spring boot development professional with expertise in Java, Spring 
 ### TAS India Pvt. Ltd.
 
 **Senior Software Engineer**
-* October 2018 - September 2021 (Pune, India)*
-
 - Design and develop Restful API in Spring Boot.
 - Develop scalable applications with Microservices.
 - Diagnosing and resolving complex technical issues.
