@@ -15,7 +15,7 @@ Experienced spring boot development professional with expertise in Java, Spring 
 ### Accenture
 
 **Application Development Senior Analyst**
-* - October 2021 - Present (Pune, India)*
+* October 2021 - Present (Pune, India)*
 
 - Planning, designing, developing, and maintaining Spring Boot applications.
 - Software analysis and error troubleshooting.
@@ -27,7 +27,7 @@ Experienced spring boot development professional with expertise in Java, Spring 
 ### TAS India Pvt. Ltd.
 
 **Senior Software Engineer**
-* - October 2018 - September 2021 (Pune, India)*
+* October 2018 - September 2021 (Pune, India)*
 
 - Design and develop Restful API in Spring Boot.
 - Develop scalable applications with Microservices.
@@ -81,11 +81,9 @@ The TASM2M-Gateway is an IoT-based background service in a Linux Environment. It
 
 ## Achievements
 
-- **Accenture Shared Success Catalyst award**
-  - Awarded for "Success Catalyst award" of Q3-2023 in Accenture.
+- **Accenture Shared Success Catalyst award of Q3-2023 in Accenture**
 
-- **Employee Of The Year Award**
-  - Awarded for "Employee Of The Year" of Q4-2020 in TAS INDIA Pvt. Ltd.
+- **Employee Of The Year Award of Q4-2020 in TAS INDIA Pvt. Ltd.**
 
 ## Working Platforms (IDE)
 
