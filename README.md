@@ -1,4 +1,4 @@
-# Onkar Mule - Senior Software Developer
+# Onkar Mule (Senior Software Developer)
 
 - **Email:** muleonkar@gmail.com
 - **Phone:** +91 8888448807
@@ -15,7 +15,7 @@ Experienced spring boot development professional with expertise in Java, Spring 
 ### Accenture
 
 **Application Development Senior Analyst**
-*October 2021 - Present (Pune, India)*
+* - October 2021 - Present (Pune, India)*
 
 - Planning, designing, developing, and maintaining Spring Boot applications.
 - Software analysis and error troubleshooting.
@@ -27,7 +27,7 @@ Experienced spring boot development professional with expertise in Java, Spring 
 ### TAS India Pvt. Ltd.
 
 **Senior Software Engineer**
-*October 2018 - September 2021 (Pune, India)*
+* - October 2018 - September 2021 (Pune, India)*
 
 - Design and develop Restful API in Spring Boot.
 - Develop scalable applications with Microservices.
